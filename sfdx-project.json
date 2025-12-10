@@ -5,8 +5,8 @@
       "versionNumber": "0.1.0.NEXT",
       "path": "force-app",
       "default": true,
-      "package": "caliber-commerce-x-fieldservice",
-      "versionDescription": "caliber-commerce-x-fieldservice package"
+      "package": "Caliber Commerce X FieldService",
+      "versionDescription": "Integration for Field Service Lightning and Caliber Commerce"
     }
   ],
   "name": "caliber-commerce-x-fieldservice",
